@@ -1,0 +1,7 @@
+{
+  "name": "Copy of MySafePocket",
+  "description": "A Simple & Secure Digital Identity Vault. Your Identity. Your Control.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
